@@ -4,7 +4,7 @@
 2. Main Rule: both folder and feature file name must be equal
 Example:
 
--integration
+- integration
   - GoogleSearch
     - index.js
   - GoogleSearch.feature
