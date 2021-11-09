@@ -1,6 +1,6 @@
 # cypress-cucumber-poc
 
-1. Install the cucumber formatter for viscode
+1. Install the cucumber formatter for vscode because the indentations in the feature file are important.
 2. Main Rule: both folder and feature file name must be equal
 Example:
 
