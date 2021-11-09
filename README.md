@@ -3,6 +3,7 @@
 1. Install the cucumber formatter for viscode
 2. Main Rule: both folder and feature file name must be equal
 Example:
+
 -integration
   - GoogleSearch
     - index.js
